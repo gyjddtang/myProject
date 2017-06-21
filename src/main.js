@@ -8,7 +8,7 @@ import ElementUI from 'element-ui';
 import 'element-ui/lib/theme-default/index.css';   //引入 elememt-ui 样式
 import './mock/index.js';   // 注入请求mockjs模拟
 
-// 注册为全局组件
+  // 注册为全局组件
 Vue.config.productionTip = false;
 Vue.use(ElementUI);
 
